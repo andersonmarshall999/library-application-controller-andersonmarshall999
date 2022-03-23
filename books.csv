@@ -1,0 +1,44 @@
+[ 
+  {
+    "title": "Moby Dick",
+    "author": {
+      "firstName": "Herman",
+      "lastName" : "Melville"
+    }
+  },
+  {
+    "title": "1984",
+    "author": {
+      "firstName": "George",
+      "lastName" : "Orwell"
+    }
+  },
+  {
+    "title": "Brave New World",
+    "author": {
+      "firstName": "Aldous",
+      "lastName" : "Huxley"
+    }
+  },
+  {
+    "title": "Dune",
+    "author": {
+      "firstName": "Frank",
+      "lastName" : "Herbert"
+    }
+  },
+  {
+    "title": "War and Peace",
+    "author": {
+      "firstName": "Leo",
+      "lastName" : "Tolstoy"
+    }
+  },
+  {
+    "title": "Love in the Time of Cholera",
+    "author": {
+      "firstName": "Gabriel",
+      "lastName" : "García Márquez"
+    }
+  }
+]

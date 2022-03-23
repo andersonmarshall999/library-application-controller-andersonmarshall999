@@ -1,0 +1,37 @@
+[
+  {
+    "firstName": "Stacy",
+    "lastName": "Read",
+    "onLoan": [
+      {
+        "title": "Jane Eyre",
+        "author": {
+          "firstName": "Charlotte",
+          "lastName": "Brontë"
+        }
+      },
+      {
+        "title": "Les Misérables",
+        "author": {
+          "firstName": "Victor",
+          "lastName": "Hugo"
+        }
+      }
+    ]
+  },
+  {
+    "firstName": "Matt",
+    "lastName": "Green",
+    "onLoan": []
+  },
+  {
+    "firstName": "Brittney",
+    "lastName": "Schultz",
+    "onLoan": []
+  },
+  {
+    "firstName": "Jeff",
+    "lastName": "Grissom",
+    "onLoan": []
+  }
+]

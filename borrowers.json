@@ -1,0 +1,47 @@
+[ {
+  "firstName" : "Stacy",
+  "lastName" : "Read",
+  "booksOnLoan" : [ {
+    "author" : {
+      "firstName" : "Charlotte",
+      "lastName" : "Brontë"
+    },
+    "title" : "Jane Eyre"
+  }, {
+    "author" : {
+      "firstName" : "Victor",
+      "lastName" : "Hugo"
+    },
+    "title" : "Les Misérables"
+  } ]
+}, {
+  "firstName" : "Matt",
+  "lastName" : "Green",
+  "booksOnLoan" : [ {
+    "author" : {
+      "firstName" : "Gabriel",
+      "lastName" : "García Márquez"
+    },
+    "title" : "Love in the Time of Cholera"
+  } ]
+}, {
+  "firstName" : "Brittney",
+  "lastName" : "Schultz",
+  "booksOnLoan" : [ {
+    "author" : {
+      "firstName" : "George",
+      "lastName" : "Orwell"
+    },
+    "title" : "1984"
+  } ]
+}, {
+  "firstName" : "Jeff",
+  "lastName" : "Grissom",
+  "booksOnLoan" : [ {
+    "author" : {
+      "firstName" : "Aldous",
+      "lastName" : "Huxley"
+    },
+    "title" : "Brave New World"
+  } ]
+} ]

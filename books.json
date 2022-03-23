@@ -1,0 +1,19 @@
+[ {
+  "author" : {
+    "firstName" : "Herman",
+    "lastName" : "Melville"
+  },
+  "title" : "Moby Dick"
+}, {
+  "author" : {
+    "firstName" : "Frank",
+    "lastName" : "Herbert"
+  },
+  "title" : "Dune"
+}, {
+  "author" : {
+    "firstName" : "Leo",
+    "lastName" : "Tolstoy"
+  },
+  "title" : "War and Peace"
+} ]
