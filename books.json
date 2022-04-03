@@ -16,4 +16,28 @@
     "lastName" : "Tolstoy"
   },
   "title" : "War and Peace"
+}, {
+  "author" : {
+    "firstName" : "Victor",
+    "lastName" : "Hugo"
+  },
+  "title" : "Les Misérables"
+}, {
+  "author" : {
+    "firstName" : "Charlotte",
+    "lastName" : "Brontë"
+  },
+  "title" : "Jane Eyre"
+}, {
+  "author" : {
+    "firstName" : "Gabriel",
+    "lastName" : "García Márquez"
+  },
+  "title" : "Love in the Time of Cholera"
+}, {
+  "author" : {
+    "firstName" : "Aldous",
+    "lastName" : "Huxley"
+  },
+  "title" : "Brave New World"
 } ]
